@@ -90,6 +90,50 @@ Banks](https://indiadataportal.com/p/reserve-bank-of-india/r/rbi-groupwise_credi
 -   Use time-series analysis and district-level maps to explore trends
     further.
 
+
+
+
+
+
+
+
+
+**Data Visualisation**
+
+
+
+
+
+
+
+
+
+
+
+<img width="597" height="455" alt="download" src="https://github.com/user-attachments/assets/11df4ce6-74ba-45ac-b3c9-0e923a5ab2fa" />
+<img width="558" height="581" alt="download" src="https://github.com/user-attachments/assets/67fe9d78-01c8-4314-b005-1e221e2f00d2" />
+<img width="693" height="455" alt="download" src="https://github.com/user-attachments/assets/d6e56490-3d1f-4fce-a30f-5be9653554b0" />
+<img width="766" height="455" alt="download" src="https://github.com/user-attachments/assets/aec3821d-ca67-4599-b2a6-8e6a8e0b61c6" />
+<img width="576" height="529" alt="download" src="https://github.com/user-attachments/assets/02b042aa-a4b1-4019-8edd-18ccb6deae71" />
+<img width="617" height="529" alt="download" src="https://github.com/user-attachments/assets/a35260a0-7aa6-4ffe-98a7-84ff2e6e499d" />
+<img width="1389" height="490" alt="download" src="https://github.com/user-attachments/assets/cd0addad-13fa-4683-b858-516ab7c2712a" />
+<img width="1243" height="547" alt="download" src="https://github.com/user-attachments/assets/a79bd0e6-f677-47ba-af68-d1fd958a1650" />
+<img width="507" height="320" alt="Screenshot 2026-10-20 133620" src="https://github.com/user-attachments/assets/d8748eaa-1dce-464a-9b70-99edb8e319a1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ------------------------------------------------------------------------
 
 **Note:** All findings and totals refer to the 50,000-record sample
